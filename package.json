@@ -1,0 +1,27 @@
+{
+    "name": "google-auth",
+    "description": "Implementation of 2-Factor Authentication specifically for use with google authenticator in node.js.",
+    "keywords": [
+        "google",
+        "authenticator",
+        "2fa",
+        "2 factor authentication"
+    ],
+    "version": "1.0.0",
+    "author": "Nathan Johson <node@njohnson.me>",
+    "bugs": {
+        "url": "https://github.com/n-johnson/node-darkcoin/issues"
+    },
+    "licenses": [{
+        "type": "MIT",
+        "url": "https://raw.github.com/n-johnson/google-auth/master/LICENSE"
+    }],
+    "dependencies": {
+        "node-json-rpc": "~0.0.1"
+    },
+    "repositories": {
+        "type": "git",
+        "url": "https://github.com/n-johnson/google-auth"
+    },
+    "main": "index.js"
+}
