@@ -17,9 +17,8 @@
         "url": "https://raw.github.com/n-johnson/google-auth/master/LICENSE"
     }],
     "dependencies": {
-        "node-json-rpc": "~0.0.1"
     },
-    "repositories": {
+    "repository": {
         "type": "git",
         "url": "https://github.com/n-johnson/google-auth"
     },
